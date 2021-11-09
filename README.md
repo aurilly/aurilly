@@ -1,4 +1,4 @@
-<h1 align="center">im dimorph/t0a5ty</h1>
+<h1 align="center">im aurilly/t0a5ty</h1>
 <h3 align="center">a backend developer from canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0a5ty&label=profile%20views&color=f22734&style=flat-square" alt="t0a5ty" /> </p>
