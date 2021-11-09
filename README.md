@@ -1,11 +1,11 @@
 <h1 align="center">im aurilly/t0a5ty</h1>
 <h3 align="center">a backend developer from canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t0a5ty&label=profile%20views&color=f22734&style=flat-square" alt="t0a5ty" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurilly&label=profile%20views&color=f22734&style=flat-square" alt="aurilly" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_t0a5ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_t0a5ty" height="30" width="40" /></a>
+<a href="https://twitter.com/aurilly_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aurilly_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
