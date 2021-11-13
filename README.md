@@ -30,10 +30,8 @@ Discord    :  Toasty 4854
 
 
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="https://komarev.com/ghpvc/?username=aurilly&style=flat-square" width="110" height="20" ><br><br>
-  <img width="300" height="150" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aurilly&theme=radical" /> 
-	<img align="right" width="300" height="142.75" src="https://github-readme-stats.vercel.app/api?username=aurilly&show_icons=true&theme=radical" />
+<img src="https://komarev.com/ghpvc/?username=aurilly&style=flat-square" width="110" height="20" ><br><br>
+<img width="300" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=aurilly&show_icons=true&theme=radical" />
 	
 </p>
 
