@@ -8,9 +8,9 @@ aurilly@laptop
 ----------------
 
 OS         :  Manjaro
-WM         :  dwm
+WM         :  KDE Plasma
 Shell      :  zsh
-Terminal   :  Alacritty
+Terminal   :  Konsole
 Editor     :  Nano (im boring)
 CPU        :  i7-6700HQ
 Languages  :  Javascript, C#, Python, Learning C++
