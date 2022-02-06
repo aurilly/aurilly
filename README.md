@@ -1,22 +1,15 @@
-
-<center>
-
-```zsh
-
-
+```
 aurilly@laptop
 ----------------
 
-OS         :  Manjaro
-WM         :  KDE Plasma
+OS         :  Archcraft
+WM         :  Openbox
 Shell      :  zsh
-Terminal   :  Konsole
-Editor     :  Nano (im boring)
-CPU        :  i7-6700HQ
-Languages  :  Javascript, C#, Python, Learning C++
-Discord    :  Toasty 4854
+Terminal   :  Alacritty
+Editor     :  VSCode / Geany
+Languages  :  JS / TS, Python, Lua, PHP (🤢)
+Learning   :  C++, C#
+Discord    :  Toasty#4854
 
 
 ```
-	
-</p>
