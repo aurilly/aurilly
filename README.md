@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aurilly&style=for-the-badge&color=blueviolet"></img>
-  <img src="https://img.shields.io/github/followers/aurilly?affiliations=OWNER%2CCOLLABORATOR&color=blueviolet&style=for-the-badge"></img>
-  <img src="https://img.shields.io/github/stars/aurilly?affiliations=OWNER%2CCOLLABORATOR&color=blueviolet&style=for-the-badge"></img>
+  <img src="https://img.shields.io/github/followers/aurilly0?affiliations=OWNER%2CCOLLABORATOR&color=blueviolet&style=for-the-badge"></img>
+  <img src="https://img.shields.io/github/stars/aurilly0?affiliations=OWNER%2CCOLLABORATOR&color=blueviolet&style=for-the-badge"></img>
 </p>
 
 <p align="center">
