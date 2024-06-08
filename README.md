@@ -24,6 +24,8 @@
 
 \mmlToken{ms}[fontfamily="goombafont; color:transparent; pointer-events: none; z-index: 10000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/aurilly/aurilly/blob/main/dog-staring.gif?raw=true');"]{}
 
+\mmlToken{ms}[fontfamily="goombafont; color:transparent; pointer-events: none; z-index: -10000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 1px; opacity: 0.0; background: url('https://github.com/aurilly/aurilly/blob/main/test.svg?raw=true');"]{}
+
 ```
 
 
