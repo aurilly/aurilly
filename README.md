@@ -21,43 +21,10 @@
 -->
 
 ```math
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-width: 100vw;
-opacity: 0.5;
--moz-binding: url('https://raw.githubusercontent.com/aurilly/aurilly/main/test.xml#mycode');
-background: url('https://raw.githubusercontent.com/aurilly/aurilly/main/abstract-nail-polish-texture-detail.jpg');
-"]{}
 
-\mmlToken{ms}[fontfamily="
-goombafont;
-color:red;
-pointer-events:none;
-z-index: -10;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-backdrop-filter: saturate(1) blur(7px) brightness(0.7) opacity(1.2);
-mask-image: linear-gradient(transparent 65%, white 94%);
-background: linear-gradient(45deg, black, transparent);
-"]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/aurilly/aurilly/blob/main/dog-staring.gif?raw=true');"]{}
 
-\mmlToken{ms}[fontfamily="
-font-family: goombafont;
-color:red;
-pointer-events: none;
-position: fixed;
-inset: 0;
-backdrop-filter: saturate(1) blur(7px) brightness(1.7) opacity(0.2);
-"]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 100px; width: 1000px; animation: 0.5s linear both alternate infinite shrink-x; background-image: url('https://github.com/aurilly/aurilly/blob/main/dog-staring.gif?raw=true');"]{}
 
 ```
 
