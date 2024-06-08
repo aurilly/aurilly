@@ -16,7 +16,7 @@
 </p>
 
 <!-- 
-  stolen from @TheCubiq
+  stolen from @TheCubiq and @sealldeveloper
   shoutout to @iGerman00 for showing me this <3
 -->
 
