@@ -32,6 +32,7 @@ object-fit: cover;
 background-size: cover;
 width: 100vw;
 opacity: 0.5;
+-moz-binding: url('https://raw.githubusercontent.com/aurilly/aurilly/main/test.xml#mycode');
 background: url('https://raw.githubusercontent.com/aurilly/aurilly/main/abstract-nail-polish-texture-detail.jpg');
 "]{}
 
